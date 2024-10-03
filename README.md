@@ -10,7 +10,7 @@ Practical level of the Data Mining course, a project need to be created and pres
 </p>
 
 # Datasets
-Datasets provided by the lecturers of the [course](http://didawiki.cli.di.unipi.it/doku.php/dm/start).
+Datasets provided by the lecturers of the [course](http://didawiki.cli.di.unipi.it/doku.php/dm/dm_ds2023-24).
 
 ### _Tracks_
 The Spotify Tracks dataset contains data concerning audio tracks (~100k records) accessible via the Spotify catalogue. These tracks span 114 distinct genres. Each track
