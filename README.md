@@ -12,12 +12,12 @@ Practical level of the Data Mining course, a project need to be created and pres
 # Datasets
 Datasets provided by the lecturers of the [course](http://didawiki.cli.di.unipi.it/doku.php/dm/start).
 
-### Tracks
+### _Tracks_
 The Spotify Tracks dataset contains data concerning audio tracks (~100k records) accessible via the Spotify catalogue. These tracks span 114 distinct genres. Each track
 is associated with some metadata such as _id_, _name_, _album_name_, and various musical characteristics such as _danceability_, _energy_, _duration_ms_ and _mode_.
-### Artists
+### _Artists_
 The Spotify Artists dataset provides information about artists. Each entry includes an _id_(a unique identifier for the artist), and the artist’s name. It also contains two numerical attributes: _popularity_, which ranges from 0 to 100, and _followers_, which indicates the number of followers. Additionally, the dataset includes a list of genres in which the artist is classified.
-### Time Series
+### _Time Series_
 The time series dataset represents the spectral centroids of song MP3 audio files. It consists of 10,000 rows, corresponding to 20 distinct genres, with 500 rows per genre. Each time series has a length of 1,280 columns.
 
 # Team members
