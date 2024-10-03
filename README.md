@@ -26,7 +26,7 @@ The time series dataset represents the spectral centroids of song MP3 audio file
 
 # Tasks
 - [Data Understanding & Preparation](./scripts/dm2_understanding.ipynb)
-- [Time Series Analyses](./scripts/time_series): Understanding & preparation · Clustering · Classification · Motifs & Shapelets · DeepLearning
+- [Time Series Analyses](./scripts/time_series): Understanding & Preparation · Clustering · Classification · Motifs & Shapelets · DeepLearning
 - [Advanced Data-Preprocessing](./scripts/advanced_preprocessing): Imbalanced Learning · Dimension Reduction · Outlier Detection
 - [Advanced ML & XAI](./scripts/advanced_ML_XAI):
   - Advanced Classification: Logistic Regression · SVC · Neural Networks · Ensamble Methods · Gradient Boosting
