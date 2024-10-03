@@ -1,6 +1,6 @@
 # Data Mining: Advanced Topics and Applications
 
-DM2 Project: Datasets  |  [Codes](scripts)  |  [Final report](report_final_Gu_Li.pdf)
+DM2 Project: [Codes](scripts)  |  [Final report](report_final_Gu_Li.pdf)
 
 Practical level of the Data Mining course, a project need to be created and presented that requires to analyze spotify datasets (tracks & artists), as well as a dataset of time series representing the spectral centroids of the song mp3 audio files, with different mining methods using python. And a written report need to be prepared showing the results of the project activity and the interpretation of the results found.
 
